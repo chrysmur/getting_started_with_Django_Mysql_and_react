@@ -1,0 +1,5 @@
+{
+    //"python.pythonPath": "/home/mury/anaconda3/bin/python"
+    "python.pythonPath": "/home/mury/PythonEnv/djangoapi/bin/python",
+    //"python.linting.pylintEnabled": true
+}
